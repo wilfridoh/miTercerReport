@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: tercerReport
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/wilfridoh/tercerReport
+Author: Claudio Hidalgo
+Author-email: wilfridoh721@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary

@@ -1,0 +1,6 @@
+README.md
+setup.py
+tercerReport.egg-info/PKG-INFO
+tercerReport.egg-info/SOURCES.txt
+tercerReport.egg-info/dependency_links.txt
+tercerReport.egg-info/top_level.txt
